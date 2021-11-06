@@ -32,3 +32,4 @@ measurementId: ---
 Habilitar en firebase el logeo por correo
 
 Autor Maickol Moreira Godoy.
+
